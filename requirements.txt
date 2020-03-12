@@ -148,7 +148,7 @@ pre-commit==1.14.2
 preshed==2.0.1
 prompt-toolkit==1.0.15
 protobuf==3.6.1
-psutil==5.4.3
+psutil==5.6.6
 py==1.5.2
 py-espeak-ng==0.1.7
 py3dns==3.2.0
