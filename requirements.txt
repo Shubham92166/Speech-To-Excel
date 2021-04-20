@@ -149,7 +149,7 @@ preshed==2.0.1
 prompt-toolkit==1.0.15
 protobuf==3.6.1
 psutil==5.4.3
-py==1.5.2
+py==1.10.0
 py-espeak-ng==0.1.7
 py3dns==3.2.0
 PyAudio==0.2.11
