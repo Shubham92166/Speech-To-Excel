@@ -168,7 +168,7 @@ pyodbc==4.0.22
 pyOpenSSL==17.5.0
 pypandoc==1.4
 pyparsing==2.2.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pypiwin32==223
 PyQt5-sip==4.19.13
 PySocks==1.6.7
