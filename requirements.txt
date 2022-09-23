@@ -147,7 +147,7 @@ pocketsphinx==0.1.15
 pre-commit==1.14.2
 preshed==2.0.1
 prompt-toolkit==1.0.15
-protobuf==3.6.1
+protobuf==3.18.3
 psutil==5.4.3
 py==1.5.2
 py-espeak-ng==0.1.7
